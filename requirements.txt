@@ -1,0 +1,6 @@
+streamlit 
+re
+heapq
+nltk
+nltk.download('punkt')
+nltk.download('stopwords')
